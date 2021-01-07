@@ -1,0 +1,1 @@
+This assignment involves writing a program to solve the same problem as Assign-ment 1 Part C except by using dynamic memory allocation and linked lists tech-niques. As a reminder, the program will read lines of text from a given file, computethe frequency of words of certain length from the file and print these frequencies tostandard output
