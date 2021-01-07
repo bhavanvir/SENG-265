@@ -1,0 +1,1 @@
+This assignment involves writing a program to solve the same problem as Assign-ments  1  except  using  Python  3.  As  a  reminder,  your  programs  will  read  lines  oftext from a given file, compute the frequency of words of certain length from thefile and print these frequencies to standard output.
