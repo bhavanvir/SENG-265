@@ -1,0 +1,1 @@
+This  assignment  involves  writing  an  interactive  program  to  decode  a  data  set  ofencrypted ferry schedules from BC Ferries. The program will interactively promptthe user for input which will be used to decrypt and process the appropriate files.The overall goal of this assignment is to familiarize yourself withregexand Pythonclasses
