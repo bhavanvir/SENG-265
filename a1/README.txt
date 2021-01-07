@@ -1,1 +1,1 @@
-First Assignment
+This  assignment  involves  writing  a  command  line  application  to  process  streamsof text from a file. The program will read lines of text from a given file, computethe frequency of words of certain length from the file and print these frequencies tostandard output.
