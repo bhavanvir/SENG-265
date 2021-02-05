@@ -1,7 +1,3 @@
-/* Bhavanvir Rai
- * V00938954
- */
-
 #ifndef A1_H
 #define A1_H
 
