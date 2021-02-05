@@ -1,7 +1,3 @@
-/* Bhavanvir Rai
- * V00938954
- */
-
 #include "word_count.h" 
 
 int
